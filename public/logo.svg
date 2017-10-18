@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="490px" height="490px" viewBox="0 0 490 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>darbouka_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="200" cy="200" r="200"></circle>
+        <filter x="-17.1%" y="-16.9%" width="135.2%" height="135.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="2" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.602944303   0 0 0 0 0.602944303   0 0 0 0 0.602944303  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0.977539062,0.298828125 C2.5739963,29.5989687 5.64203015,52.2102968 10.1816406,68.1328125 C14.7212511,84.0553282 29.0897407,104.035797 53.2871094,128.074219 C22.9674625,222.113742 10.4603011,272.339002 15.765625,278.75 C19.6970424,283.500758 53.7726946,294.349007 91.9628906,294.275391 C131.077395,294.199992 174.319621,283.093694 177.769531,278.75 C182.315062,273.026839 168.204385,222.801578 135.4375,128.074219 C160.711055,102.46523 175.937618,82.4847612 181.117188,68.1328125 C186.296757,53.7808638 190.590703,31.5425826 193.999023,1.41796875 L0.977539062,0.298828125 Z" id="path-3"></path>
+        <path d="M0.903320312,2.54431155 L183.688477,0.799804688 L179.280273,14.5283203 C135.414388,20.8206111 107.089844,23.9777422 94.3066406,23.9997138 C81.5234375,24.0216854 53.6184896,20.8645542 10.5917969,14.5283203 L0.903320312,2.54431155 Z" id="path-5"></path>
+        <path d="M0.903320312,1.65141558 L222,0 L184.702148,55.4316406 C137.22168,62.9079486 107.089844,66.679433 94.3066406,66.7460938 C81.5234375,66.8127545 52.593099,63.0412701 7.515625,55.4316406 L0.903320312,1.65141558 Z" id="path-7"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-60.000000, -39.000000)">
+            <g id="darbouka_icon" transform="translate(103.000000, 81.000000)">
+                <g id="Group">
+                    <g id="Oval-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F0E4AD" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle" transform="translate(108.000000, 70.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#E8C4A5" xlink:href="#path-3"></use>
+                        <g id="part4" mask="url(#mask-4)" fill="#CAE5CC">
+                            <g transform="translate(12.000000, 233.000000)" id="Rectangle-2">
+                                <path d="M5.53672704,0.844572265 L176,0 L163.492179,26.9294886 C140.739862,34.9397124 112.707403,38.9448242 79.3948042,38.9448242 C46.0822051,38.9448242 19.6172704,34.7139499 0,26.2522011 L5.53672704,0.844572265 Z"></path>
+                            </g>
+                        </g>
+                        <g id="part2" mask="url(#mask-4)" fill="#E8C4A5">
+                            <g transform="translate(-24.000000, 71.000000)" id="Rectangle">
+                                <rect x="0" y="0" width="249" height="156"></rect>
+                            </g>
+                        </g>
+                        <g id="part1-2" mask="url(#mask-4)">
+                            <g transform="translate(0.000000, 57.000000)">
+                                <g id="part3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(22.000000, 160.000000)">
+                                    <path d="M0.745117188,9.22681787 C17.3492839,3.07560596 41.8266602,-7.38606513e-14 74.1772461,-7.46069873e-14 C106.527832,-7.46069873e-14 131.005208,3.07560596 147.609375,9.22681787 L142.111328,26.3408203 C129.855469,21.3053458 106.658203,18.7876086 72.5195312,18.7876086 C38.3808594,18.7876086 15.9277344,21.3053458 5.16015625,26.3408203 L0.745117188,9.22681787 Z" id="Rectangle" fill="#CBE7F3" transform="translate(74.177246, 13.170410) scale(1, -1) translate(-74.177246, -13.170410) "></path>
+                                </g>
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="Mask" stroke="none" fill="#CAE5CC" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="part1" mask="url(#mask-4)">
+                            <g transform="translate(0.000000, 1.000000)">
+                                <g id="part3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(22.000000, 214.000000)">
+                                    <path d="M0.452148438,11.1318359 C14.1269245,4.1858724 38.4762084,0.712890625 73.5,0.712890625 C108.523792,0.712890625 133.03967,4.1858724 147.047636,11.1318359 L143.289062,27.1367188 C132.526188,22.0459057 108.664936,19.5004992 71.7053042,19.5004992 C34.7456729,19.5004992 12.1082277,22.4472729 3.79296875,28.3408203 L0.452148438,11.1318359 Z" id="Rectangle" fill="#CBE7F3" transform="translate(73.749892, 14.526855) scale(1, -1) translate(-73.749892, -14.526855) "></path>
+                                </g>
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="Mask" stroke="none" fill="#CBE7F3" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                        </g>
+                        <g id="Group-6" mask="url(#mask-4)" stroke="#FFFBE8">
+                            <g transform="translate(4.000000, 35.000000)">
+                                <path d="M11.3847656,194.935547 L18.2607422,198 C38.8491757,204.666667 63.7368384,208 92.9237303,208 C122.110622,208 146.136045,204.666667 165,198" id="Path-3" stroke-width="2"></path>
+                                <path d="M22.2617188,182 C39.9159738,187.333333 63.4049208,190 92.7285599,190 C122.052199,190 144.809346,187.333333 161,182" id="Path-3" stroke-width="2"></path>
+                                <polyline id="Path-5" stroke-width="2" points="30.15625 155.03125 54.1738281 112.388672 63.8417969 157.646484 82.796875 112.388672 96.8496094 155.03125 111.78125 112.388672 125.990234 155.03125 139.402344 115.995117"></polyline>
+                                <polyline id="Path-6" stroke-width="2" points="135.732422 110.696289 125.748047 136.651367 111.364258 96.4785156 97.0292969 134.446289 82.6923828 96.4785156 66.0996094 134.446289 56.1015625 94.65625 40.2617187 122.117188"></polyline>
+                                <path d="M0.325195312,6.50097656 C3.59602865,3.55761719 7.29101562,2.0859375 11.4101562,2.0859375 C17.5888672,2.0859375 14.1271083,18.3556712 24.1455078,19.3271484 C34.1639073,20.2986257 45.9628906,6.50097656 56.9404297,6.50097656 C67.9179687,6.50097656 78.4731445,21.5478516 92.4692383,21.5478516 C106.465332,21.5478516 101.297852,8.15429687 116.963867,8.15429687 C132.629883,8.15429687 136.671875,17.6972656 147.291016,17.6972656 C157.910156,17.6972656 151.645508,2.70605469 162.84082,0.540039063 C174.036133,-1.62597656 176.331055,9.89941406 183.822266,9.88964844" id="Path-4" stroke-width="3"></path>
+                                <path d="M4.39257812,23.03125 C40.5058594,30.1744792 68.1393229,33.7460938 87.2929687,33.7460938 C106.446615,33.7460938 137.451172,30.1744792 180.306641,23.03125" id="Path-2" stroke-width="3"></path>
+                                <path d="M7.81542969,37.9414062 C41.6468099,43.8111979 68.1393229,46.7460938 87.2929687,46.7460938 C106.446615,46.7460938 135.909831,43.1744792 175.682617,36.03125" id="Path-2" stroke-width="3"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M125,331 C148.720325,339 175.220325,343 204.5,343 C233.779675,343 260.279675,339 284,331" id="Path-3" stroke="#FFFBE8" stroke-width="2"></path>
+                </g>
+                <ellipse id="Oval" fill="#E4E0CC" cx="205.5" cy="70.5" rx="96.5" ry="29.5"></ellipse>
+                <ellipse id="Oval" fill="#FFFBE8" cx="205.5" cy="66.5" rx="96.5" ry="25.5"></ellipse>
+                <g id="Group-3" transform="translate(84.000000, 101.000000)">
+                    <g id="Group-4">
+                        <g id="lignes" transform="translate(0.000000, 11.000000)"></g>
+                        <g id="Group-2" transform="translate(30.000000, 0.000000)" fill="#FFFBE8">
+                            <circle id="Oval-2" cx="24" cy="15" r="3"></circle>
+                            <circle id="Oval-2" cx="53" cy="21" r="3"></circle>
+                            <circle id="Oval-2" cx="89" cy="18" r="3"></circle>
+                            <circle id="Oval-2" cx="3" cy="15" r="3"></circle>
+                            <circle id="Oval-2" cx="179" cy="3" r="3"></circle>
+                            <circle id="Oval-2" cx="115" cy="22" r="3"></circle>
+                            <circle id="Oval-2" cx="143" cy="10" r="3"></circle>
+                            <circle id="Oval-2" cx="164" cy="16" r="3"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-5" transform="translate(144.000000, 204.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
